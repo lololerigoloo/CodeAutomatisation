@@ -57,7 +57,7 @@ def getTotalByDate(date_str):
     return total + celi + comptant
 
 logging.getLogger('yfinance').setLevel(logging.CRITICAL)
-for date in range(1, 9):
+for date in range(1, 10):
     date_str = f"2026-06-{date:02d}"
     total.append(getTotalByDate(date_str))
     print(f"\nTOTAL: {total[-1]:.2f} CAD as of {date_str}")
