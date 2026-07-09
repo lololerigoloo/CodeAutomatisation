@@ -1,0 +1,15 @@
+{
+    "stocks": {
+        "XGRO.TO": 40,
+        "ZBAL.TO": 250,
+        "XCNS.TO": 115,
+        "XEQT.TO": 30,
+        "GBAL.TO": 35,
+        "ITA": 5,
+        "VBAL.TO": 45
+    },
+    "cash": {
+        "celi": 134.81,
+        "comptant": 145.44
+    }
+}
