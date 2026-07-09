@@ -1,0 +1,1 @@
+(.venv) PS C:\code\feuilleDexamenMedailleBronze> ..\.venv\Scripts\python.exe .\main.py -i .\MedailleBronze2020Final_Fillable.pdf -o medaille.pdf -csv .\formulaire.csv
